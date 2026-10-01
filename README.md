@@ -131,4 +131,5 @@ Mi objetivo es que el repositorio refleje no solo los resultados finales, sino t
 **Contacto**
 
 [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-p%C3%A9rez-gonz%C3%A1lez-019817273/)
-[Mail](victorperezgonzalez44@gmail.com)
+
+victorperezgonzalez44@gmail.com
